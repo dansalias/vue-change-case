@@ -17,4 +17,4 @@ Vue.use(VueChangeCase);
 </div>
 ```
 
-See [https://github.com/blakeembrey/change-case]() for a full list of methods.
+See [change-case](https://github.com/blakeembrey/change-case#usage) for a full list of methods.
