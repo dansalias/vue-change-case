@@ -7,8 +7,8 @@ npm install --save vue-change-case
 ## Usage
 
 ```
-import vueChangeCase from 'vue-change-case'
-Vue.use(vueChangeCase);
+import VueChangeCase from 'vue-change-case'
+Vue.use(VueChangeCase);
 ```
 
 ```

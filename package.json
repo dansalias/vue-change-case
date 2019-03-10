@@ -1,6 +1,6 @@
 {
   "name": "vue-change-case",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Vue.js plugin implementing the 'change-case' package methods as filters.",
   "main": "index.js",
   "repository": "github.com/dansalias/vue-change-case",
