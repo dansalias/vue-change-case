@@ -1,12 +1,12 @@
 {
   "name": "vue-change-case",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Vue.js plugin implementing the 'change-case' package methods as filters.",
   "keywords": [
     "vue", "change-case", "filter", "case", "camel", "title", "pascal", "snake", "upper", "lower", "uppercase", "lowercase"
   ],
   "main": "index.js",
-  "repository": "github.com/dansalias/vue-change-case",
+  "repository": "github:dansalias/vue-change-case",
   "author": "Daniel Young",
   "license": "MIT",
   "private": false,
