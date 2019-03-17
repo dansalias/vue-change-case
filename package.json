@@ -1,6 +1,6 @@
 {
   "name": "vue-change-case",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Vue.js plugin implementing the 'change-case' package methods as filters.",
   "keywords": [
     "vue",
@@ -22,14 +22,24 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "echo \"Error: No Test Specified\" && exit 1"
+    "test": "jest"
+  },
+  "dependencies": {
+    "change-case": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "vue": "^2.6.9"
   },
   "eslintConfig": {
     "env": {
       "es6": true
     }
   },
-  "dependencies": {
-    "change-case": "^3.1.0"
+  "babel": {
+    "presets": ["@babel/preset-env"]
   }
 }

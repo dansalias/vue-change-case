@@ -18,3 +18,12 @@ Vue.use(VueChangeCase);
 ```
 
 See [change-case](https://github.com/blakeembrey/change-case#usage) for a full list of methods.
+
+## Testing
+
+```
+git clone https://github.com/dansalias/vue-change-case
+cd vue-change-case
+npm install
+npm test
+```
